@@ -1,0 +1,8 @@
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\bin\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.deps.json
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\bin\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\bin\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.pdb
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\obj\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.csproj.CoreCompileInputs.cache
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\obj\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.AssemblyInfoInputs.cache
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\obj\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.AssemblyInfo.cs
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\obj\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.EmployeeSalary.Dal\obj\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.pdb

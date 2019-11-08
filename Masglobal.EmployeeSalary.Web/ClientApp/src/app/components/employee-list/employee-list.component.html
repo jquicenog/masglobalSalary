@@ -1,0 +1,40 @@
+<div class="col-md-12">
+  <h1>Employee Id</h1>
+</div>
+<div class="row">
+  <div class="col-md-4">
+    <div class="input-group">
+      <input type="text" name="employeeSearch" #employeeId id="employeeId" placeholder="Enter employee id" class="form-control" autofocus>
+      <span class="input-group-btn">
+        <button class="btn btn-primary" (click)="searchEmployee(employeeId.value)">Search</button>
+      </span>
+    </div>
+  </div>
+</div>
+<br />
+
+<p *ngIf="!employees"><em>Loading...</em></p>
+
+<table class='table table-striped' *ngIf="employees">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>ContractTypeName</th>
+      <th>HourlySalary</th>
+      <th>MonthlySalary</th>
+      <th>AnnualSalary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employees">
+      <td>{{ employee.id }}</td>
+      <td>{{ employee.name }}</td>
+      <td *ngIf="employee.contractTypeName==0">HourlySalary</td>
+      <td *ngIf="employee.contractTypeName==1">MonthlySalary</td>
+      <td>{{ employee.hourlySalary }}</td>
+      <td>{{ employee.monthlySalary }}</td>
+      <td>{{ employee.annualSalary }}</td>
+    </tr>
+  </tbody>
+</table>

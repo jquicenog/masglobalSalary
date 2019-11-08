@@ -1,0 +1,17 @@
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.UnitTest.deps.json
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.UnitTest.runtimeconfig.json
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.UnitTest.runtimeconfig.dev.json
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.UnitTest.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.UnitTest.pdb
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.csprojAssemblyReference.cache
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.csproj.CoreCompileInputs.cache
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.AssemblyInfoInputs.cache
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.AssemblyInfo.cs
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.pdb
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.dll
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\bin\Debug\netcoreapp2.2\Masglobal.EmployeeSalary.Bll.pdb
+D:\MGlobal\Masglobal.EmployeeSalary\Masglobal.UnitTest\obj\Debug\netcoreapp2.2\Masglobal.UnitTest.csproj.CopyComplete
